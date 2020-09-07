@@ -1,6 +1,7 @@
 # Hola! 👋 I'm Sergi
-### A Full Stack Dev / Software Crafter / Programmer / Whatever you wanna call it. In short, I write code (if you're on GitHub you know how it works)
-I try to write clean, quality, testeable, scalable, understandeble for humans and self-explanatory code. Plz note that I said *trying*; I'm still learning. That's why I wanna dig deeper into Design Patterns, Clean Architectures and Advanced Testing.
+## A Full Stack Dev / Software Crafter / Programmer / Whatever you wanna call it. 
+#### In short, I write code (if you're on GitHub you know how it works)
+I try to write clean, quality, testeable, scalable, understandeble for humans and self-explanatory code. Plz note that I said *trying*; I'm still learning. That's why I wanna dig deeper into Design Patterns, Clean Architectures and Advanced Testing. 
 
 <br>
 <!--
