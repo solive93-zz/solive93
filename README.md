@@ -14,7 +14,7 @@ I try to write clean, quality, testeable, scalable, understandeble for humans an
 
 #### My journey in Factoria
 - **/webclone**: Our first assignments in Factoria. We had to clone a landing page using ONLY semantic HTML and reusable CSS classes. Frameworks were not allowed. Check [/webclone repo](https://github.com/solive93/webclone) </br>
-</br>
+
 - **/WheelOfDoom**: Our first "Team Project". We used vanilla PHP and MySQL. The UX and the UI are... :hankey: Check [/WheelOfDoom repo](https://github.com/solive93/WheelOfDoom)</br>
 
 - **/MyFirstCRUD**: A 2-week-long (1 sprint), individual CRUD App. I did a very simple videogame CRUD App, but I was pretty proud of it. Check [/MyFirstCRUD repo](https://github.com/solive93/MyFirstCRUD) </br>
